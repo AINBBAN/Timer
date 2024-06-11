@@ -1,6 +1,6 @@
 let btn = document.querySelector('button');
 let nouveauParagraphe = document.createElement('p');
-document.getElementById('text').prepend(nouveauParagraphe,);
+document.getElementById('decompte').prepend(nouveauParagraphe,);
 
 btn.addEventListener('click', () => {
     function start() {
